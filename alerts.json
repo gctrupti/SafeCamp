@@ -1,0 +1,609 @@
+[
+    {
+        "timestamp": "2025-09-27T16:26:26.545117",
+        "num_people": 2,
+        "unattended_bags": 0,
+        "fire_detected": true,
+        "image": "alerts/Alert_20250927_162626.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T16:50:17.193567",
+        "num_people": 0,
+        "unattended_bags": 1,
+        "fire_detected": false,
+        "fall_detected": false,
+        "image": "alerts/Alert_20250927_165017.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T16:53:38.851205",
+        "num_people": 2,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "image": "alerts/Alert_20250927_165338.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T16:53:54.642039",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "image": "alerts/Alert_20250927_165354.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:06:13.034943",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_170613.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:06:18.316349",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170618.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:06:23.579406",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170623.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:06:28.842984",
+        "num_people": 5,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170628.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:06:34.092820",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170634.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:06:39.387998",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170639.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:06:44.634984",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170644.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:06:49.803413",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170649.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:06:54.924327",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_170654.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:08:45.891548",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170845.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:08:51.557768",
+        "num_people": 2,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170851.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:08:57.079078",
+        "num_people": 2,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170857.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:09:02.566985",
+        "num_people": 2,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170902.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:09:07.903849",
+        "num_people": 2,
+        "unattended_bags": 0,
+        "fire_detected": true,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170907.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:09:12.983220",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_170912.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:14:38.122137",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171438.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:14:43.531867",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171443.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:14:49.212783",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171449.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:14:54.348561",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171454.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:14:59.532773",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171459.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:16:44.383737",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171644.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:16:50.183356",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171650.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:16:55.217157",
+        "num_people": 5,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171655.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:17:00.697102",
+        "num_people": 6,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171700.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:17:05.720425",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171705.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:17:11.382398",
+        "num_people": 5,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171711.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:18:35.653163",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171835.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:18:41.067517",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171841.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:18:47.032730",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_171847.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:23:11.719707",
+        "num_people": 2,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_172311.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:23:17.011452",
+        "num_people": 2,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_172317.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:23:22.521867",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_172322.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:23:28.962664",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_172328.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:23:34.466774",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_172334.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:23:39.866786",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_172339.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:34:28.045368",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_173428.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:34:34.015302",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_173434.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:34:39.216030",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_173439.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:34:44.241219",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_173444.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:44:40.548648",
+        "num_people": 2,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174440.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:44:45.692787",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174445.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:44:50.908545",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174450.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:44:56.060029",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174456.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:01.228557",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_174501.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:06.603628",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174506.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:12.091311",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_174512.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:17.963452",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_174517.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:24.062580",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_174524.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:29.821073",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174529.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:35.178967",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_174535.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:40.362752",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_174540.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:45.579802",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": true,
+        "image": "alerts/Alert_20250927_174545.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:51.308039",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174551.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:45:57.115793",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174557.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:46:02.827415",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174602.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:46:08.539174",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174608.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:46:13.739086",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174613.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:46:19.628001",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174619.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:46:24.860415",
+        "num_people": 4,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174624.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:46:30.619769",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174630.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:46:35.725535",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174635.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:46:41.136108",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174641.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:46:46.370618",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174646.jpg"
+    },
+    {
+        "timestamp": "2025-09-27T17:46:51.855084",
+        "num_people": 3,
+        "unattended_bags": 0,
+        "fire_detected": false,
+        "fall_detected": false,
+        "sharp_detected": false,
+        "image": "alerts/Alert_20250927_174651.jpg"
+    }
+]
