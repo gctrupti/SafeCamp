@@ -167,7 +167,7 @@ while cap.isOpened():
 
     # ---------------- ALERT DECISION ----------------
     alert_needed = (
-        people_in_roi > 0 or
+        people_in_roi > 1 or
         any(bag["unattended"] for bag in unattended_bags.values()) or
         fire_detected_frame or
         fall_detected or
